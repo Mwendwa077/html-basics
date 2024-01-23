@@ -1,0 +1,7 @@
+body{
+    background-image: url("land.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    text-autospace: none;
+}

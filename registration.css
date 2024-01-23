@@ -1,0 +1,10 @@
+body{
+    font-style: normal;
+    font-size: large;
+    font-weight: bold;
+    padding: 0px;
+    margin: 20px;
+}
+label{
+    font-style: oblique;
+}

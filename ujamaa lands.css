@@ -1,0 +1,7 @@
+body{
+    background-color: white;
+    background-size: cover;
+    text-align: center;
+    background-image: url("land.jpeg");
+    border: #090909;
+}
